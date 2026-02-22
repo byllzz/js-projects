@@ -44,7 +44,7 @@ getUserDetails.addEventListener("click" , () => {
 
         <span class="font-semibold">${repo.name}</span>
 
-        <span>⭐ ${repo.stargazers_count}</span>
+        <span> ${repo.stargazers_count}</span>
 
       </a>
     `,
