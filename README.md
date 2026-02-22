@@ -40,7 +40,7 @@ Built to strengthen **JavaScript fundamentals + modern frontend development skil
 ✔ Interactive UI Components<br>
 ✔ JavaScript Experiments<br>
 ✔ Mini Games<br> -->
-✔ More projects added daily...
+ More projects added daily...
 </p>
 
 ---
