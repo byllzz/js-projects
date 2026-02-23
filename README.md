@@ -33,8 +33,8 @@ Built to strengthen **JavaScript fundamentals + modern frontend development skil
 
 <p align="left">
 ✔ GitHub Profile Finder (API + Fetch Practice)<br>
-<!--✔ Weather App<br>
-✔ ToDo App<br>
+✔ Weather App<br>
+<!--✔ ToDo App<br>
 ✔ Password Generator<br>
 ✔ Calculator<br>
 ✔ Interactive UI Components<br>
