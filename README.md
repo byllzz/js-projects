@@ -36,6 +36,7 @@ Built to strengthen **JavaScript fundamentals + modern frontend development skil
 ✔ Weather App<br>
 ✔ ToDo App<br>
 ✔ Digital Clock (Using object oriented way)<br>
+✔ Random Quote Generator<br>
 <!--✔ Password Generator<br>
 ✔ Calculator<br>
 ✔ Interactive UI Components<br>
