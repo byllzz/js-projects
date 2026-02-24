@@ -35,6 +35,7 @@ Built to strengthen **JavaScript fundamentals + modern frontend development skil
 ✔ GitHub Profile Finder (API + Fetch Practice)<br>
 ✔ Weather App<br>
 ✔ ToDo App<br>
+✔ Digital Clock (Using object oriented way)<br>
 <!--✔ Password Generator<br>
 ✔ Calculator<br>
 ✔ Interactive UI Components<br>
