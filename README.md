@@ -1,4 +1,4 @@
-# <a href="https://github.com/your-username/js-projects" target="_blank">JavaScript Projects — Daily Builds, Experiments & Practice</a>
+# <a href="https://github.com/byllzz/js-projects" target="_blank">JavaScript Projects — Daily Builds, Experiments & Practice</a>
 
 **JavaScript Projects** is my personal collection of daily-built frontend projects where I practice and improve my core JavaScript, DOM manipulation, API handling, animations, and UI skills.
 
