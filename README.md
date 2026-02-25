@@ -40,10 +40,7 @@ Built to strengthen **JavaScript fundamentals + modern frontend development skil
 ✔ Age Calculator<br>
 ✔ Countdown Timer(Using object oriented way)<br>
 ✔ QR Code Generator<br>
-<!--✔ Calculator<br>
-✔ Interactive UI Components<br>
-✔ JavaScript Experiments<br>
-✔ Mini Games<br> -->
+✔ Typing Speed Test..<br>
  More projects added daily...
 </p>
 
