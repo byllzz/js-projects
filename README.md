@@ -38,6 +38,7 @@ Built to strengthen **JavaScript fundamentals + modern frontend development skil
 ✔ Digital Clock (Using object oriented way)<br>
 ✔ Random Quote Generator<br>
 ✔ Age Calculator<br>
+✔ Countdown Timer(Using object oriented way)<br>
 <!--✔ Calculator<br>
 ✔ Interactive UI Components<br>
 ✔ JavaScript Experiments<br>
