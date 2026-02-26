@@ -41,6 +41,7 @@ Built to strengthen **JavaScript fundamentals + modern frontend development skil
 ✔ Countdown Timer(Using object oriented way)<br>
 ✔ QR Code Generator<br>
 ✔ Typing Speed Test..<br>
+✔ Tabs Navigation (Just logic)<br>
  More projects added daily...
 </p>
 
