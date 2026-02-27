@@ -42,6 +42,7 @@ Built to strengthen **JavaScript fundamentals + modern frontend development skil
 ✔ QR Code Generator<br>
 ✔ Typing Speed Test..<br>
 ✔ Tabs Navigation (Just logic)<br>
+✔ Password Generator (Using secure Api Pass gen)<br>
  More projects added daily...
 </p>
 
