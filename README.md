@@ -2,7 +2,7 @@
 
 **JavaScript Projects** is my personal collection of daily-built frontend projects where I practice and improve my core JavaScript, DOM manipulation, API handling, animations, and UI skills.
 
-Every folder inside this repository represents a new project built from scratch — focusing on real-world implementation and hands-on learning.
+Every folder inside this repository represents a new project built from scratch - focusing on real-world implementation and hands-on learning.
 
 Built to strengthen **JavaScript fundamentals + modern frontend development skills.**
 
